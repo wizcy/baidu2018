@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+  }
+
+.span1 {
+    float:left;
+    margin-right: 80px;
+}
+
+.clear{
+    clear: both;
+}
+
+.span2{
+    display:block;
+}
+.title{
+    font-size: 1.5em;
+}
+.span3 {
+    float:left;
+    /* background-color: rgb(241, 169, 81); */
+    margin-left: 20px;
+    padding: 1%;
+    height: 700px;
+    /* border: 2px solid black; */
+    /* background-color: red; */
+}
+
+.span4{
+    float:left;
+    /* background-color: rgb(241, 169, 81); */
+    font-size: 2em;
+    color: white;
+    padding: 50px;
+    height: 700px;
+    width: 200px;
+    background-color: rgb(60, 154, 231);
+}
+
+h1{
+    margin: 50px;
+    color:white;
+}
